@@ -1,3 +1,3 @@
 # Advance-Web
 
-Basic working of html css and javascript And Php concepts.
+Basic working of html css javascript  And Php concepts.
