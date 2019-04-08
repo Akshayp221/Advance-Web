@@ -1,3 +1,3 @@
 # Advance-Web
 
-Working of html,css,javascript And Php.
+Working of Html, Css, JavaScript And Php.
